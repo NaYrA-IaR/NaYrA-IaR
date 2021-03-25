@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Machine Learning In Python.
 - 💬 Ask me about Python?
-- 📫 How to reach me: Python
-- 😄 Pronouns: Python
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aryan-rai/)
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: Python.  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=NaYrA-IaR&show_icons=true&theme=graywhite" />
 
